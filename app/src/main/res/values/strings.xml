@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RickAndMortyTask</string>
+
+    <string name="str_find_character">Find character</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_location">Location</string>
+    <string name="str_origin_location">Origin location</string>
+    <string name="str_species">Species</string>
+    <string name="str_space">------------</string>
+    <string name="str_gender">Gender</string>
+    <string name="str_search_not_found_message">Character with this name was not found</string>
+</resources>
